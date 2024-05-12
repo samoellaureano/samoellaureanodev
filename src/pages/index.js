@@ -32,7 +32,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Bem vindo ao Samoel Dev!`}
+      title={`Welcome`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
